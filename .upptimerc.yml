@@ -17,5 +17,9 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   baseUrl: /uptimez
-  name: Upptime
-  introTitle: "Uptime of platformOS stacks"
+  name: Uptime
+  introTitle: "platformOS status page"
+  introMessage: "Learn uptime, average response times, ongoing and past incidents"
+
+i18n:
+  footer: Powered by [Upptime](https://upptime.js.org)
