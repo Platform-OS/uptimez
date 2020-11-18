@@ -4,8 +4,18 @@ repo: uptimez # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Sydney
+    url: https://prod01.sydney.platformos.com/ping
+  - name: Oregon
+    url: https://prod01.oregon.platform-os.com/ping
+  - name: London
+    url: https://prod01.london.platform-os.com/ping
+  - name: AWS Staging
+    url: https://staging.oregon.platformos.com/ping
+  - name: GC Staging
+    url: https://nearme-example.staging.gapps.platformos.com/ping
+  - name: Partner Portal
+    url: https://partners.platformos.com/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
