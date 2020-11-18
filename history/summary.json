@@ -35,9 +35,9 @@
     "name": "GC Staging",
     "url": "https://nearme-example.staging.gapps.platformos.com/ping",
     "slug": "gc-staging",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 427
+    "status": "down",
+    "uptime": "99.82",
+    "time": 285
   },
   {
     "name": "Partner Portal",
