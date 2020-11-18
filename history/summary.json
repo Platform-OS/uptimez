@@ -24,20 +24,12 @@
     "time": 403
   },
   {
-    "name": "AWS Staging",
+    "name": "Oregon Staging",
     "url": "https://staging.oregon.platformos.com/ping",
-    "slug": "aws-staging",
+    "slug": "oregon-staging",
     "status": "up",
     "uptime": "100.00",
-    "time": 360
-  },
-  {
-    "name": "GC Staging",
-    "url": "https://nearme-example.staging.gapps.platformos.com/ping",
-    "slug": "gc-staging",
-    "status": "down",
-    "uptime": "99.82",
-    "time": 285
+    "time": 522
   },
   {
     "name": "Partner Portal",
