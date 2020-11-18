@@ -8,10 +8,8 @@ sites:
     url: https://prod01.oregon.platform-os.com/ping
   - name: London
     url: https://prod01.london.platform-os.com/ping
-  - name: AWS Staging
+  - name: Oregon Staging
     url: https://staging.oregon.platformos.com/ping
-  - name: GC Staging
-    url: https://nearme-example.staging.gapps.platformos.com/ping
   - name: Partner Portal
     url: https://partners.platformos.com/
 
