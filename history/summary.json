@@ -5,7 +5,7 @@
     "slug": "sydney",
     "status": "up",
     "uptime": "100.00",
-    "time": 880
+    "time": 916
   },
   {
     "name": "Oregon",
@@ -13,7 +13,7 @@
     "slug": "oregon",
     "status": "up",
     "uptime": "100.00",
-    "time": 420
+    "time": 419
   },
   {
     "name": "London",
@@ -21,7 +21,7 @@
     "slug": "london",
     "status": "up",
     "uptime": "100.00",
-    "time": 408
+    "time": 403
   },
   {
     "name": "AWS Staging",
@@ -29,7 +29,7 @@
     "slug": "aws-staging",
     "status": "up",
     "uptime": "100.00",
-    "time": 358
+    "time": 360
   },
   {
     "name": "GC Staging",
@@ -37,7 +37,7 @@
     "slug": "gc-staging",
     "status": "up",
     "uptime": "100.00",
-    "time": 430
+    "time": 427
   },
   {
     "name": "Partner Portal",
@@ -45,6 +45,6 @@
     "slug": "partner-portal",
     "status": "up",
     "uptime": "100.00",
-    "time": 484
+    "time": 485
   }
 ]
