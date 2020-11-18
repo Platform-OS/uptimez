@@ -1,0 +1,7 @@
+- url: https://nearme-example.staging.gapps.platformos.com/ping
+- status: up
+- code: 200
+- responseTime: 430
+- lastUpdated: 2020-11-18T18:58:57.308Z
+- startTime: 2020-11-18T18:58:56.876Z
+- generator: Upptime <https://github.com/upptime/upptime>
