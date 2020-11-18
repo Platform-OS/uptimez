@@ -1,8 +1,6 @@
-# Change these first
-owner: pavelloz # Your GitHub username
-repo: uptimez # Your Github repository name
+owner: pavelloz
+repo: uptimez
 
-# Add your sites here
 sites:
   - name: Sydney
     url: https://prod01.sydney.platformos.com/ping
@@ -20,17 +18,6 @@ sites:
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptimez
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  # name: Upptime
-  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  # introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
-  # navbar:
-  #   - title: Status
-  #     href: /
-  #   - title: GitHub
-  #     href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  name: Upptime
+  introTitle: "Uptime of platformOS stacks"
