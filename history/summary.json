@@ -1,10 +1,50 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Sydney",
+    "url": "https://prod01.sydney.platformos.com/ping",
+    "slug": "sydney",
     "status": "up",
     "uptime": "100.00",
-    "time": 30
+    "time": 880
+  },
+  {
+    "name": "Oregon",
+    "url": "https://prod01.oregon.platform-os.com/ping",
+    "slug": "oregon",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 420
+  },
+  {
+    "name": "London",
+    "url": "https://prod01.london.platform-os.com/ping",
+    "slug": "london",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 408
+  },
+  {
+    "name": "AWS Staging",
+    "url": "https://staging.oregon.platformos.com/ping",
+    "slug": "aws-staging",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 358
+  },
+  {
+    "name": "GC Staging",
+    "url": "https://nearme-example.staging.gapps.platformos.com/ping",
+    "slug": "gc-staging",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 430
+  },
+  {
+    "name": "Partner Portal",
+    "url": "https://partners.platformos.com/",
+    "slug": "partner-portal",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 484
   }
 ]
