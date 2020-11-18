@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Google",
+    "url": "https://www.google.com",
+    "slug": "google",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 30
+  }
+]
