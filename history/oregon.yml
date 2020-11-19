@@ -1,7 +1,7 @@
 - url: https://prod01.oregon.platform-os.com/ping
 - status: up
 - code: 200
-- responseTime: 424
-- lastUpdated: 2020-11-19T06:56:24.689Z
+- responseTime: 451
+- lastUpdated: 2020-11-19T23:00:39.320Z
 - startTime: 2020-11-18T18:58:53.985Z
 - generator: Upptime <https://github.com/upptime/upptime>
