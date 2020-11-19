@@ -1,7 +1,7 @@
 - url: https://prod01.sydney.platformos.com/ping
 - status: up
 - code: 200
-- responseTime: 859
-- lastUpdated: 2020-11-19T06:56:22.761Z
+- responseTime: 1007
+- lastUpdated: 2020-11-19T23:00:38.555Z
 - startTime: 2020-11-18T18:58:52.473Z
 - generator: Upptime <https://github.com/upptime/upptime>
