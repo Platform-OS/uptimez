@@ -1,7 +1,7 @@
 - url: https://staging.oregon.platformos.com/ping
-- status: up
+- status: down
 - code: 200
-- responseTime: 456
-- lastUpdated: 2020-11-18T23:00:51.685Z
+- responseTime: 379
+- lastUpdated: 2020-11-19T06:48:59.149Z
 - startTime: 2020-11-18T20:56:28.625Z
 - generator: Upptime <https://github.com/upptime/upptime>
