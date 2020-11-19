@@ -1,7 +1,7 @@
 - url: https://partners.platformos.com/
-- status: up
+- status: down
 - code: 200
-- responseTime: 496
-- lastUpdated: 2020-11-18T23:00:52.451Z
+- responseTime: 540
+- lastUpdated: 2020-11-19T06:49:01.358Z
 - startTime: 2020-11-18T18:58:57.889Z
 - generator: Upptime <https://github.com/upptime/upptime>
