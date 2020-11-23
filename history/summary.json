@@ -4,39 +4,39 @@
     "url": "https://prod01.sydney.platformos.com/ping",
     "slug": "sydney",
     "status": "up",
-    "uptime": "100.00",
-    "time": 936
+    "uptime": "100.00%",
+    "time": 927
   },
   {
     "name": "Oregon",
     "url": "https://prod01.oregon.platform-os.com/ping",
     "slug": "oregon",
     "status": "up",
-    "uptime": "100.00",
-    "time": 433
+    "uptime": "100.00%",
+    "time": 430
   },
   {
     "name": "London",
     "url": "https://prod01.london.platform-os.com/ping",
     "slug": "london",
     "status": "up",
-    "uptime": "100.00",
-    "time": 435
+    "uptime": "100.00%",
+    "time": 437
   },
   {
     "name": "Oregon Staging",
     "url": "https://staging.oregon.platformos.com/ping",
     "slug": "oregon-staging",
     "status": "up",
-    "uptime": "100.00",
-    "time": 436
+    "uptime": "100.00%",
+    "time": 451
   },
   {
     "name": "Partner Portal",
     "url": "https://partners.platformos.com/",
     "slug": "partner-portal",
     "status": "up",
-    "uptime": "100.00",
-    "time": 520
+    "uptime": "100.00%",
+    "time": 518
   }
 ]
