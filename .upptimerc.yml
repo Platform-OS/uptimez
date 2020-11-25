@@ -15,8 +15,8 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
-  baseUrl: /uptimez
+  cname: status.platformos.com
+  # baseUrl: /uptimez
   name: Uptime
   introTitle: "platformOS status page"
   introMessage: "Learn uptime, average response times, ongoing and past incidents"
