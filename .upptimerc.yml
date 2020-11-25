@@ -3,13 +3,13 @@ repo: uptimez
 
 sites:
   - name: Sydney
-    url: https://prod01.sydney.platformos.com/ping
+    url: https://prod01.sydney.platformos.com/_status
   - name: Oregon
-    url: https://prod01.oregon.platform-os.com/ping
+    url: https://prod01.oregon.platform-os.com/_status
   - name: London
-    url: https://prod01.london.platform-os.com/ping
+    url: https://prod01.london.platform-os.com/_status
   - name: Oregon Staging
-    url: https://staging.oregon.platformos.com/ping
+    url: https://staging.oregon.platformos.com/_status
   - name: Partner Portal
     url: https://partners.platformos.com/
 
@@ -22,4 +22,4 @@ status-website:
   introMessage: "Learn uptime, average response times, ongoing and past incidents"
 
 i18n:
-  footer: Powered by [Upptime](https://upptime.js.org)
+  footer: Powered by [platformOS](https://www.platformos.com) and [Upptime](https://upptime.js.org)
