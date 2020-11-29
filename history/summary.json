@@ -5,7 +5,7 @@
     "slug": "sydney",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1263
+    "time": 1300
   },
   {
     "name": "Oregon",
@@ -13,7 +13,7 @@
     "slug": "oregon",
     "status": "up",
     "uptime": "100.00%",
-    "time": 545
+    "time": 559
   },
   {
     "name": "London",
@@ -37,6 +37,6 @@
     "slug": "partner-portal",
     "status": "up",
     "uptime": "100.00%",
-    "time": 490
+    "time": 494
   }
 ]
