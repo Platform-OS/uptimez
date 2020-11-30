@@ -5,7 +5,7 @@
     "slug": "sydney",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1300
+    "time": 1338
   },
   {
     "name": "Oregon",
@@ -13,7 +13,7 @@
     "slug": "oregon",
     "status": "up",
     "uptime": "100.00%",
-    "time": 559
+    "time": 568
   },
   {
     "name": "London",
@@ -21,7 +21,7 @@
     "slug": "london",
     "status": "up",
     "uptime": "100.00%",
-    "time": 450
+    "time": 449
   },
   {
     "name": "Oregon Staging",
@@ -29,7 +29,7 @@
     "slug": "oregon-staging",
     "status": "up",
     "uptime": "100.00%",
-    "time": 420
+    "time": 423
   },
   {
     "name": "Partner Portal",
@@ -37,6 +37,6 @@
     "slug": "partner-portal",
     "status": "up",
     "uptime": "100.00%",
-    "time": 494
+    "time": 491
   }
 ]
