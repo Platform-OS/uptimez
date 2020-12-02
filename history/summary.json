@@ -3,17 +3,17 @@
     "name": "Sydney",
     "url": "https://prod01.sydney.platformos.com/_status",
     "slug": "sydney",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 1400
+    "time": 1339
   },
   {
     "name": "Oregon",
     "url": "https://prod01.oregon.platform-os.com/_status",
     "slug": "oregon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 589
+    "time": 563
   },
   {
     "name": "London",
