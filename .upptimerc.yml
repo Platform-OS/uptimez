@@ -12,7 +12,10 @@ sites:
     url: https://staging.oregon.platformos.com/_status
   - name: Partner Portal
     url: https://partners.platformos.com/
-
+  - name: London Deploy Service (custom domains)
+    url: https://community.platformos.com/api/private/urls/
+  - name: London Deploy Service (main)
+    url: https://partners-community.prod01.london.platformos.com/api/private/urls/
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.platformos.com
