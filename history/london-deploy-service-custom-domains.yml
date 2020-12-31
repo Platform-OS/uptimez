@@ -1,7 +1,7 @@
 url: https://community.platformos.com/api/private/urls/  
-status: down
-code: 504
-responseTime: 10532
-lastUpdated: 2020-12-30T23:35:51.770Z
+status: up
+code: 200
+responseTime: 607
+lastUpdated: 2020-12-31T00:02:36.138Z
 startTime: Tue Dec 15 2020 15:08:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
