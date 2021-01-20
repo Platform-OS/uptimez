@@ -18,8 +18,8 @@ sites:
     url: https://partners-community.prod01.london.platformos.com/api/private/urls/
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: status.platformos.com
-  baseUrl: /
+  # cname: status.platformos.com
+  # baseUrl: /
   name: Uptime
   introTitle: "platformOS status page"
   introMessage: "Learn uptime, average response times, ongoing and past incidents"
