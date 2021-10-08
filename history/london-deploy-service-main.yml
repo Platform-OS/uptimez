@@ -1,7 +1,7 @@
 url: https://partners-community.prod01.london.platformos.com/api/private/urls/
-status: down
-code: 503
-responseTime: 738
-lastUpdated: 2021-10-08T05:27:39.335Z
+status: up
+code: 200
+responseTime: 408
+lastUpdated: 2021-10-08T05:37:28.924Z
 startTime: Wed Jan 20 2021 16:41:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
