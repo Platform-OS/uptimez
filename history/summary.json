@@ -13,8 +13,8 @@
     "time": 917,
     "timeDay": 895,
     "timeWeek": 885,
-    "timeMonth": 909,
-    "timeYear": 890,
+    "timeMonth": 914,
+    "timeYear": 882,
     "dailyMinutesDown": {}
   },
   {
@@ -22,7 +22,7 @@
     "url": "https://prod01.oregon.platform-os.com/_status",
     "icon": "https://favicons.githubusercontent.com/prod01.oregon.platform-os.com",
     "slug": "oregon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -58,7 +58,7 @@
     "url": "https://staging.oregon.platformos.com/_status",
     "icon": "https://favicons.githubusercontent.com/staging.oregon.platformos.com",
     "slug": "oregon-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -76,7 +76,7 @@
     "url": "https://partners.platformos.com/",
     "icon": "https://favicons.githubusercontent.com/partners.platformos.com",
     "slug": "partner-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -122,7 +122,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 534,
-    "timeYear": 568,
+    "timeYear": 569,
     "dailyMinutesDown": {}
   }
 ]
