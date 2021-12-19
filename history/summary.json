@@ -4,7 +4,7 @@
     "url": "https://prod01.sydney.platformos.com/_status",
     "icon": "https://favicons.githubusercontent.com/prod01.sydney.platformos.com",
     "slug": "sydney",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
