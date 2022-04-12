@@ -1,7 +1,7 @@
 url: https://staging.oregon.platformos.com/_status
-status: down
-code: 503
-responseTime: 379
-lastUpdated: 2022-04-12T13:51:56.808Z
+status: up
+code: 200
+responseTime: 332
+lastUpdated: 2022-04-12T14:07:29.137Z
 startTime: Wed Jan 20 2021 16:41:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
